@@ -1,0 +1,15 @@
+C:\Users\Fahrezi Fitria\Batch319\Logic\Logic319\Kuis02\bin\Debug\net6.0\Kuis02.exe
+C:\Users\Fahrezi Fitria\Batch319\Logic\Logic319\Kuis02\bin\Debug\net6.0\Kuis02.deps.json
+C:\Users\Fahrezi Fitria\Batch319\Logic\Logic319\Kuis02\bin\Debug\net6.0\Kuis02.runtimeconfig.json
+C:\Users\Fahrezi Fitria\Batch319\Logic\Logic319\Kuis02\bin\Debug\net6.0\Kuis02.dll
+C:\Users\Fahrezi Fitria\Batch319\Logic\Logic319\Kuis02\bin\Debug\net6.0\Kuis02.pdb
+C:\Users\Fahrezi Fitria\Batch319\Logic\Logic319\Kuis02\obj\Debug\net6.0\Kuis02.csproj.AssemblyReference.cache
+C:\Users\Fahrezi Fitria\Batch319\Logic\Logic319\Kuis02\obj\Debug\net6.0\Kuis02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fahrezi Fitria\Batch319\Logic\Logic319\Kuis02\obj\Debug\net6.0\Kuis02.AssemblyInfoInputs.cache
+C:\Users\Fahrezi Fitria\Batch319\Logic\Logic319\Kuis02\obj\Debug\net6.0\Kuis02.AssemblyInfo.cs
+C:\Users\Fahrezi Fitria\Batch319\Logic\Logic319\Kuis02\obj\Debug\net6.0\Kuis02.csproj.CoreCompileInputs.cache
+C:\Users\Fahrezi Fitria\Batch319\Logic\Logic319\Kuis02\obj\Debug\net6.0\Kuis02.dll
+C:\Users\Fahrezi Fitria\Batch319\Logic\Logic319\Kuis02\obj\Debug\net6.0\refint\Kuis02.dll
+C:\Users\Fahrezi Fitria\Batch319\Logic\Logic319\Kuis02\obj\Debug\net6.0\Kuis02.pdb
+C:\Users\Fahrezi Fitria\Batch319\Logic\Logic319\Kuis02\obj\Debug\net6.0\Kuis02.genruntimeconfig.cache
+C:\Users\Fahrezi Fitria\Batch319\Logic\Logic319\Kuis02\obj\Debug\net6.0\ref\Kuis02.dll
